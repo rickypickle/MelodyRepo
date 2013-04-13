@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Test\SimpleMove.js">
+    <Files>
+      <File FileName="Assets\Test\SimpleMove.js" Line="60" Column="1" />
+      <File FileName="Assets\Test\Inventory.js" Line="4" Column="35" />
+      <File FileName="Assets\Test\changeTexture.js" Line="8" Column="54" />
+      <File FileName="Assets\Test\LockerTrigger.js" Line="13" Column="30" />
+      <File FileName="Assets\Test\SinkTrigger.js" Line="58" Column="29" />
+      <File FileName="Assets\Test\TerminalTrigger.js" Line="32" Column="27" />
+      <File FileName="Assets\Test\DoorTrigger.js" Line="38" Column="4" />
+      <File FileName="Assets\Test\DoorAnimation.js" Line="22" Column="44" />
+      <File FileName="Assets\Test\keyTrigger.js" Line="25" Column="35" />
+      <File FileName="Assets\Reset.js" Line="4" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
